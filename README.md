@@ -15,13 +15,13 @@ This is a Flutter app demonstrating the use of **Cubit** for state management. I
 
 ## App Demo Video 🎥
 
-[Watch the localization demo video here]()
+[Watch the localization demo video here](https://github.com/user-attachments/assets/7d66fdfb-d738-48df-9219-c7862b615a16)
 
 ## Screenshots
 
-| Dark Theme      | Light Theme      | Bloc Consumer      | Listener & Builder      |
+| Default State      | Negative Warning      | Reach 10      | Reach -10      |
 | --------------- | ---------------- | ------------------ | ----------------------- |
-| ![Dark Theme]() | ![Light Theme]() | ![Bloc Consumer]() | ![Listener & Builder]() |
+| ![Default State](https://github.com/user-attachments/assets/1f37a689-1e60-44fe-ab30-11d8bf60c995) | ![Negative Warning](https://github.com/user-attachments/assets/d10e0064-74d4-4e80-8a63-416b645a88b8) | ![Reach 10](https://github.com/user-attachments/assets/9af6fd51-6457-416e-842d-8b7d16c34e8c) | ![Reach -10](https://github.com/user-attachments/assets/42e81cf2-3c5d-43f3-bad0-c5afcaa3c70a) |
 
 ---
 
